@@ -1079,6 +1079,7 @@ From the **Pharmacy** Team
 
 - [@MoTammaa](https://github.com/MoTammaa)
 - [@mahmoudaboueleneen](https://github.com/mahmoudaboueleneen)
+- [@AhmedSherifSaid](https://github.com/Ahmedsherif74)
 
 From the **Clinic** Team
 
